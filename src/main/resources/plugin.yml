@@ -1,0 +1,10 @@
+name: SpacelifeBuildworld
+version: 1.0.0
+main: de.petropia.bauwelt.Bauwelt
+description: "Plugin to manage behavior for building world"
+author: Professor_Sam
+api-version: '1.20'
+load: STARTUP
+depend:
+  - "TurtleServer"
+  - "SpacelifeCore"
